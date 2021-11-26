@@ -1,6 +1,9 @@
 # Frontend and Backend Server for Docker
 
+ONLY BACKEND WORKS!
+
 The frontend and backend for [Karte von morgen](https://github.com/kartevonmorgen/kartevonmorgen/) is based on the documentation [Open Fair DB](https://github.com/kartevonmorgen/openfairdb) and [Karte von morgen](https://github.com/kartevonmorgen/kartevonmorgen.ts)
+
 
 ## Dependencies
 * [Docker](https://docs.docker.com/get-docker/)
