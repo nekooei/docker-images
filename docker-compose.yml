@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  kvm-backend:
+    build: backend
+    ports:
+      - "6767:8000"
+    volumes:
+      - ./data/openfairdb:/var/openfairdb
